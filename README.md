@@ -12,7 +12,7 @@ Entre na pasta do projeto:
 cd dashboard-vendas-sds3
 ```
 
-Para instalar todas as depêndencias, entre no diretório front-web e depois front-mobile, executando o seguinte comando em ambos:
+Para instalar todas as depêndencias, entre no diretório frontend e execute o seguinte comando:
 
 ```bash
 npm install
